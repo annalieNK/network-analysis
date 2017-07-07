@@ -20,7 +20,6 @@ This question will be the overall topic of the notebooks that are covered in thi
 
 - papers
 
-  ​
 
 ---
 
@@ -36,6 +35,8 @@ This question will be the overall topic of the notebooks that are covered in thi
 - Can we identify cliques based on the subject of their conversation?
 - Can we identify a pattern of the frequency of a particular topic over time? Which users started to spread a particular topic, or started to use particular key features?
 
+
+---
 
 
 The data that is used in this project is a Kaggle dataset: "How ISIS Uses Twitter".
